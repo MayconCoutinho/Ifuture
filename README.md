@@ -45,31 +45,37 @@
  <br/>
   
   
- ### Login: IfutureTeste@gmail.com
- ### Senha: 123456
+
   
   
+
+<div align="center"> 
+
 <br/>
  
   ### 🧑🏻 Area do usuario
   
- <br/>
+<br/>
+ 
+### Login: IfutureTeste@gmail.com
+### Senha: 123456
+ 
+<br/>
 
-<div align="center"> 
 
-| Login | | | |
+| Login | Cadastro | Feed | Pesquisar |
 |---|---|---|---|
 <img width='180px' src='https://user-images.githubusercontent.com/60453269/183474665-2d9e55ab-16fa-411f-bada-c6040b987e8d.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474662-1ee41de6-d27e-4f53-b617-169c0a8bec50.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474654-258f95f2-dbf7-4dcd-8e80-32221876b79c.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474647-31ef2706-c3dc-4404-8dd5-e7d0ed6a0aae.png'></img>
 
  <br/>
 
-| Login | | | |
+| Escolha dos produtos | Selecionar Quantidade | Meu Carrinho | Carrinho sem item |
 |---|---|---|---|
 <img width='180px' src='https://user-images.githubusercontent.com/60453269/183474639-a68b6ba9-bf49-448d-ac76-9d0556075af6.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474633-1d338c8b-f915-45c9-8a00-f707ec2a9527.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474615-fba3942c-64c6-4ae3-b128-f2b54d46afd0.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474571-aab95d69-3705-49ca-beae-714a19eb872b.png'></img>
  
   <br/>
 
-| Login | | | |
+| Notificação | Meu Perfil | Editar | Registra endereço |
 |---|---|---|---|
 <img width='180px' src='https://user-images.githubusercontent.com/60453269/183474604-0a1ab991-8e7e-4ce6-b338-09de626cb7ee.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474597-8e340ccd-9497-4ca0-a069-c29e9acc937b.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474587-f216a148-5507-498a-b92f-49d8b8c31633.png'></img>|<img width='180px' src='https://user-images.githubusercontent.com/60453269/183474579-ebf9d0a9-2b5d-423b-8dbe-9cb074a21258.png'></img>
 
